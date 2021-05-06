@@ -8,8 +8,8 @@ render() {
       <div class="App">
         <body>
           <ul>
-            <button type="button" class="btn btn-light btn-lg"><Link to="/Game">Game</Link></button>
-            <button type="button" class="btn btn-light btn-lg"><Link to="/Translate">Translate</Link></button>
+            <Link to="/Game"><button type="button" class="btn btn-light btn-lg btn-main">Game</button></Link>
+            <Link to="/Translate"><button type="button" class="btn btn-light btn-lg btn-main">Translate</button></Link>
           </ul>
         </body>
         

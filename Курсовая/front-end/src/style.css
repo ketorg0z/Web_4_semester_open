@@ -1,5 +1,5 @@
 body {
-    margin: 20%;
+    margin: 10%;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
       sans-serif;
@@ -53,11 +53,28 @@ body {
     }
   }
 
-  .btn {
-    margin: 10px;
-  }
-
   a {
     text-decoration:none;
   }
+
+  .custom-control-input {
+    background-color: White;
+  }
+
+  .mainpage {
+    align-content: center;
+  }
+
+  .choice {
+    margin-bottom: 10%;
+    margin-right: 80%;
+    width: 25%;
+  }
+
+  .btn-main {
+    margin: 1%;
+  }
+
+
+
 
